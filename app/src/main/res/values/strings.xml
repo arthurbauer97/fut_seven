@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FutSeven</string>
+
+
+    // Login Screen
+    <string name="login_screen_button_enter">ENTRAR</string>
+    <string name="login_screen_label_nickname">Nickname</string>
+    <string name="login_screen_label_password">Password</string>
+    <string name="login_screen_forgot_password">Forgot your password?</string>
+</resources>
